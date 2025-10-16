@@ -116,7 +116,7 @@ Las pruebas se pueden realizar directamente en el navegador (sin Postman).
 
 ---
 
-### 🌟 Punto Extra – Producto con detalle de categoría
+### 🌟Producto con detalle de categoría
 
 #### 🔹 Ver productos con categoría anidada  
 **GET:**  
@@ -145,16 +145,13 @@ Las pruebas se pueden realizar directamente en el navegador (sin Postman).
 ## 🧪 Datos de ejemplo (ya cargados en pruebas)
 - **Categorías:**
   - Electrónicos
-  - Ropa
-  - Alimentos  
+  - Hogar
+  - Oficina 
 - **Productos:**
   - Laptop HP  
-  - Mouse inalámbrico  
-  - Camiseta Nike  
-  - Arroz 5kg  
-  - Silla ergonómica  
-
----
+  - Aspiradora Philips 
+  - Silla Ergonómica
+ 
 
 ## ✅ Verificación rápida
 
