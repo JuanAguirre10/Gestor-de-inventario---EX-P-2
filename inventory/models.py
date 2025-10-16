@@ -17,7 +17,7 @@ class Category(models.Model):
         return self.name
 
 class Product(models.Model):
-    """Modelo para los productos del inventario"""
+
     name = models.CharField(max_length=200, verbose_name='Nombre')
     quantity = models.IntegerField(
         default=0, 
